@@ -5,5 +5,5 @@ Object-Oriented Programming is a powerful and widely used paradigm in software d
 This repository has been set up to manage all course-related matters, including lecture slides, assignments, and quizzes.
 Best of luck for your bright future...
 
-Course Instructor: Dr. Kashif Laeeq
+Course Instructor: Dr. Kashif Laeeq</br>
 Fuuast University Karachi
